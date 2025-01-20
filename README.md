@@ -45,6 +45,8 @@ This project is a browser-based virtual assistant that listens to user commands 
    - When the page loads, the assistant will greet you based on the current time.
    - Click on the **"Click here to talk to me"** button to start interacting.
    - Speak your command, and the assistant will respond and perform the desired action.
+   - ![Recording virtual Assistant](https://github.com/user-attachments/assets/138b927c-477f-42aa-82db-facff2366d32)
+
 
 #### **Commands You Can Use:**
 - **Greetings:** Say "hello" or "hey" to get a friendly response.
