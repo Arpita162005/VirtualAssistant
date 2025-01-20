@@ -1,4 +1,4 @@
-![voice1](https://github.com/user-attachments/assets/6e0598bc-b8fc-4dd2-8619-38cd53f1032b)![voice1](https://github.com/user-attachments/assets/3e7828ec-8aad-4a45-ba4c-c6b5489109f8)![voice1](https://github.com/user-attachments/assets/3283b1fc-b638-4a4e-bf2a-4e028b11b1d1)![logo1](https://github.com/user-attachments/assets/84754367-03e9-4810-82ea-cd78f7d181e4)
+
 
 ### **Project Title:**  
 Arpita, My Virtual Assistant  
